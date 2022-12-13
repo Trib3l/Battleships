@@ -1,5 +1,5 @@
 # TENTO KÓD, KTERÝ JE ZDE NEHRANÝ NENÍ TEN SPRÁVNÝ!
-# Již brzy dodám soubor správný.
+# Již brzy dodám soubor správný, tento je trošku starší verze hry.
 
 # Toto je README k programu Battleships.
 

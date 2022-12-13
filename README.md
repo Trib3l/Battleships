@@ -1,6 +1,3 @@
-# TENTO KÓD, KTERÝ JE ZDE NEHRANÝ NENÍ TEN SPRÁVNÝ!
-# Již brzy dodám soubor správný, tento je trošku starší verze hry.
-
 # Toto je README k programu Battleships.
 
 # Jsou teprve ve verzi 0.1 a moc věcí zde ještě nefunguje.

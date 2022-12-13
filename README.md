@@ -1,5 +1,3 @@
-# coding
-
 # TENTO KÓD, KTERÝ JE ZDE NEHRANÝ NENÍ TEN SPRÁVNÝ!
 # Již brzy dodám soubor správný.
 
